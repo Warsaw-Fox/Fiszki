@@ -1,0 +1,15 @@
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\bin\Debug\net7.0\Fiszkivol2.exe
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\bin\Debug\net7.0\Fiszkivol2.deps.json
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\bin\Debug\net7.0\Fiszkivol2.runtimeconfig.json
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\bin\Debug\net7.0\Fiszkivol2.dll
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\bin\Debug\net7.0\Fiszkivol2.pdb
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.AssemblyInfoInputs.cache
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.AssemblyInfo.cs
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.csproj.CoreCompileInputs.cache
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.sourcelink.json
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.dll
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\refint\Fiszkivol2.dll
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.pdb
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\Fiszkivol2.genruntimeconfig.cache
+C:\Users\WarsawFox\Source\Repos\Warsaw-Fox\Fiszki\obj\Debug\net7.0\ref\Fiszkivol2.dll
