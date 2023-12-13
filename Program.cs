@@ -59,7 +59,7 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("Wybierz język (1. angielski, 2. francuski, 3. zakończ program 4.ranking)");
+            Console.WriteLine("Wybierz język (1. angielski, 2. francuski, 3. niemiecki, 4. zakończ program, 5. ranking)");
             string wybor = Console.ReadLine();
 
             switch (wybor)
@@ -69,12 +69,14 @@ class Program
                 case "2":
                     return "francuski";
                 case "3":
-                    ZapiszDoRankingu(punkty);  // Tutaj korzystamy z punktów zdobytych przez czas działania prgoramu orginalnie wybór języka resetował punkty ale zrezygnowan z tego.
+                    return "niemiecki";
+                case "4":
+                    ZapiszDoRankingu(punkty);  // Korzystanie z punktów zdobytych przez czas działania programu
                     Environment.Exit(0); // Zamyka program
                     return "";
-                case "4":
+                case "5":
                     PokazRanking();
-                    return "wybor_jezyka"; 
+                    return "wybor_jezyka";
                 default:
                     Console.WriteLine("Nieprawidłowy wybór. Spróbuj ponownie.");
                     continue;
